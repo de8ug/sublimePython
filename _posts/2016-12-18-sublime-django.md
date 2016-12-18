@@ -1,5 +1,8 @@
 ---
 published: false
+tags:
+  - python
+  - django
 ---
 ## sublime-django
 
