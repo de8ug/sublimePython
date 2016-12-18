@@ -1,0 +1,8 @@
+title: Sublimepython
+description: Sublime Python is making the world a better place!
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
